@@ -79,12 +79,12 @@
 <section class="">
     <div class="">
         <div class="client-grid">
-            {% for file in pages %}
-            {% if 'clients/' in file.src_uri %}
-            <a href="{{file.name}}" class="client-card" style="background:white;">
+            {% for page in pages|selectattr("page.meta.sort")|sort(attribute="page.meta.sort")  %}
+            {% if 'clients/' in page.src_uri %}
+            <a href="{{page.name}}" class="client-card" style="background:white;">
                 <div>
-                    <h3 style="background-color:white; margin: 0; border-bottom: 1px solid #eaeaea; padding-top: 10px; padding-bottom: 10px; color: var(--md-default-fg-color--light); ">{{file.page.meta.title}}</h3>
-                    <img style="width:80%; margin:auto; display:block; margin-top:15px; margin-bottom:15px;" src="{{file.page.meta.logo}}" />
+                    <h3 style="background-color:white; margin: 0; border-bottom: 1px solid #eaeaea; padding-top: 10px; padding-bottom: 10px; color: var(--md-default-fg-color--light); ">{{page.page.meta.title}}</h3>
+                    <img style="width:80%; margin:auto; display:block; margin-top:15px; margin-bottom:15px;" src="{{page.page.meta.logo}}" />
                 </div>
             </a>
             {% endif %}
