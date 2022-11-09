@@ -1,4 +1,4 @@
-﻿We take a great care of the quality of software we made. Whenever we build a software system, we ensure below high level characteristics:  
+﻿We take a great care of the quality of software we make. Whenever we build a software system, we ensure below high level characteristics:  
 
 ## <span style="font-weight:400;">Documentation & Ease of Use</span>
 This will ensure that new developers and existing developers can create high quality new applications and safely make changes to existing applications.
