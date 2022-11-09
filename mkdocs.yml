@@ -18,14 +18,20 @@ theme:
 nav:
     - Home: 'index.md'
     - About: 
-        - Strategy & Vision: 'strategy-and-vision.md'
-        - Code of Conduct: 'code-of-conduct.md'
-        - Developers: 'developers.md'
+        - Strategy & Vision: 'about/strategy-and-vision.md'
+        - Code of Conduct: 'about/code-of-conduct.md'
+        - Developers: 'about/developers.md'
     - Philosophy:
-        - Philosophy: 'philosophy.md'
-        - Characteristics: 'characteristics.md'
-    - Software Development: 'software-development.md'
-    - Clients: 'clients.md'
+        - Philosophy:      'philosophy/philosophy.md'
+        - Characteristics: 'philosophy/characteristics.md'
+    - Software Development: 
+        - Tasks:                             'software-development/tasks.md'
+        - Continuous Integration:            'software-development/continuous-integration.md'
+        - Feature Toggles:                   'software-development/feature-toggles.md'
+        - Continuous Delivery:               'software-development/continuous-delivery.md'
+        - Automated Testing:                 'software-development/automated-testing.md'
+        - Active Maintenance:                'software-development/active-maintenance.md'
+    #- Clients: 'clients.md'
 extra_css:
   - overrides/css/extra.css
 extra:
