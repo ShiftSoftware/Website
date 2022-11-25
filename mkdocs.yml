@@ -29,7 +29,7 @@ nav:
         - Continuous Integration:            'software-development/continuous-integration.md'
         - Automated Testing:                 'software-development/automated-testing.md'
         - Continuous Delivery:               'software-development/continuous-delivery.md'
-        - Active Maintenance:                'software-development/active-maintenance.md'
+        #- Active Maintenance:                'software-development/active-maintenance.md'
     #- Clients: 'clients.md'
 extra_css:
   - overrides/css/extra.css
