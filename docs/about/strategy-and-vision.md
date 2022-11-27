@@ -19,6 +19,6 @@ We aim to place ourselves in a position where
 ## <span style="font-weight:400;">Our Vision</span>
 We started by developing and maintaining custom software and platforms for local enterprises and organizations
 
-* Our **short-term** goal is to provide the tools, the guidance and the required consultation to platform owners that will enable them to enhance and build upon their platforms with our help.
+* Our **short-term** goal is to provide tools, skilled labor, and consultation to platform owners that will enable them to enhance and build upon their platforms with our help.
 * Our **long-term** goal is to focus on building tools and frameworks for everyone without much intervention on the final product.
 * And our **Ultimate** goal is to export our tools to people, businesses, and organizations outside our local market and country.
