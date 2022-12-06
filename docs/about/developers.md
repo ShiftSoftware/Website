@@ -19,7 +19,7 @@ Considering the above points, and the fact that we're not rapidly hiring and fir
 ## <span style="font-weight:400;">Termination</span>
 A work agreement with a developer is partially or completely terminated if one or more of the following is violated:
 
-* Irresponsiblity: When a senior developer is unable to pick up responsibility after a long time (or they still need complete supervision similar to freelancers or newly onboarded developers).
+* Irresponsibility: When a senior developer is unable to pick up responsibility after a long time (or they still need complete supervision similar to freelancers or newly onboarded developers).
 * Noncompliance: the developer is not adhering to or rejecting the company's principles and values.
 * Constantly failing: the developer constantly delivers failed products/services to end-users due to irresponsibility and noncompliance.  
   

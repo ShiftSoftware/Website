@@ -1,6 +1,6 @@
 We use a centralized Collaboration tool. And it's in our company's culture to make sure that **all** of our work is recorded and progressed in the task management system.  
 
-We want our work to be organized, categorized, and accessible to allr relevant parties. Having a centralized collabration tool solves below problems:
+We want our work to be organized, categorized, and accessible to all relevant parties. Having a centralized collaboration tool solves below problems:
 
 * Not everyone is able to attend all meetings or join all phone calls.
 * Details discussed in meetings & phone calls can be forgotten.
@@ -13,7 +13,7 @@ We breakdown any given work to the smallest possible **unit of work**. The work 
 
 We follow the below simple rule of thumb for knowing when to stop the breakdown:  
 !!! info "When to Stop"
-	Can the work be explained in a few short (and meaningful) english sentences? 
+	Can the work be explained in a few short (and meaningful) English sentences? 
 	
 	* **No**: Then keep breaking down.
 	* **Yes**: The unit of work can be recorded as a task or sub-task
@@ -33,7 +33,7 @@ We follow the below simple guideline:
 
 
 ## <span style="font-weight:400;">Time Tracking</span>
-Most Collabration tools, including the one we're using provide an easy way to track and record time. We make it a habbit to always start the timer on the Task at hand. 
+Most Collaboration tools, including the one we're using provide an easy way to track and record time. We make it a habit to always start the timer on the Task at hand. 
 
 ## <span style="font-weight:400;">Reporting</span>
 One more advantage of breaking down work in an organized manner and giving them meaningful task titles is that work reports can be easily generated and shared with clients and stakeholders.

@@ -30,4 +30,4 @@ We do want to continuously integrate changes to the main branch and we do want t
 
 But in most cases, it's unlikely that we want all the successful builds to be released with the Delivery Pipeline.  
 
-To select a certain build to be released, we use Git Tags and mark a **specefic commit** as the version that should be released by the Continuous Delivery Pipeline.
+To select a certain build to be released, we use Git Tags and mark a **specific commit** as the version that should be released by the Continuous Delivery Pipeline.
