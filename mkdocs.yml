@@ -4,8 +4,8 @@ repo_name: ShiftSoftware/Website
 site_author: Shift Software
 edit_uri: Website/edit/master/docs/
 site_description: >-
-  TypeAuth
-copyright: Copyright &copy; 2022 Shift Software
+  Shift Software | Custom Software & Professional Consultation
+copyright: Copyright &copy; 2024 Shift Software
 default: getting-started
 theme:
   name: material
