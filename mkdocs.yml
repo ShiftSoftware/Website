@@ -15,6 +15,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
+    - content.tooltips
 nav:
     - Home: 'index.md'
     - About: 

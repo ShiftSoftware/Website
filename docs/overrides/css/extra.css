@@ -10,3 +10,8 @@
 table code {
     white-space: nowrap;
 }
+
+.md-tooltip__inner.md-typeset {
+    font-weight: normal;
+    font-size: 14px !important;
+}
